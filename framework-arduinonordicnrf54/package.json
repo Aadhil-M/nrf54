@@ -1,0 +1,7 @@
+{
+  "name": "framework-arduinonordicnrf54",
+  "type": "framework",
+  "version": "1.0.0",
+  "description": "Arduino framework for nRF54 (custom)",
+  "system": "*"
+}
